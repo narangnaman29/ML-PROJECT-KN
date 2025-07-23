@@ -9,7 +9,7 @@ Predict student performance based by using Data and AI
 </h3>
 <br>
 <h3 align="center">
-Technologies used.
+Technologies used:
 </h3>
 <br>
 <p align="center">
