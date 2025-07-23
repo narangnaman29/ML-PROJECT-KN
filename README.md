@@ -5,7 +5,7 @@
     </h1>
 </div>
 <h3 align="center">
-Predict student performance based by using data and A.I
+Predict student performance based by using Data and AI
 </h3>
 <br>
 <h3 align="center">
