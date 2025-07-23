@@ -61,7 +61,7 @@ The project is organized as follows:
 
 1. Clone this repository to your local machine using:
 ```
-git clone https://github.com/yourusername/student-performance-prediction.git
+git clone https://github.com/yourusername/ML-PROJECT-KN.git
 
 ```
 
